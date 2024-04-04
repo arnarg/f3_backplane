@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_Backplane")(type "KiCad")(uri "${KIPRJMOD}/footprints/Connector_Backplane.pretty")(options "")(descr ""))
+  (lib (name "Load_Switches")(type "KiCad")(uri "${KIPRJMOD}/footprints/Load_Switches.pretty")(options "")(descr ""))
+)

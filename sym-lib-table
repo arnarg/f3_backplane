@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector_Backplane")(type "KiCad")(uri "${KIPRJMOD}/symbols/Connector_Backplane.kicad_sym")(options "")(descr ""))
+  (lib (name "Load_Switches")(type "KiCad")(uri "${KIPRJMOD}/symbols/Load_Switches.kicad_sym")(options "")(descr ""))
+)
