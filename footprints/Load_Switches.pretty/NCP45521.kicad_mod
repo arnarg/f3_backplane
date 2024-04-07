@@ -13,7 +13,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b5ca207a-264c-40f5-9b72-451998658092)
   )
-  (fp_circle (center -0.75 1.75) (end -0.6 1.75)
+  (fp_circle (center -1.5 0.9) (end -1.35 0.9)
     (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4beb0e9f-0a0b-4011-b06f-d86893b619d0))
   (fp_line (start -1.1 -1.3) (end -1.1 1.3)
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 7ef4a4c4-a77b-4d3c-8fc2-e062037d13c8))
