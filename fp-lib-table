@@ -3,4 +3,5 @@
   (lib (name "Connector_Backplane")(type "KiCad")(uri "${KIPRJMOD}/footprints/Connector_Backplane.pretty")(options "")(descr ""))
   (lib (name "Load_Switches")(type "KiCad")(uri "${KIPRJMOD}/footprints/Load_Switches.pretty")(options "")(descr ""))
   (lib (name "Mounting")(type "KiCad")(uri "${KIPRJMOD}/footprints/Mounting.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/footprints/Logo.pretty")(options "")(descr ""))
 )
