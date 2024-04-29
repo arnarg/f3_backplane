@@ -17,3 +17,5 @@ The gerber zip file can be found under `fab/v1.0/f3_backplane.zip` and is genera
 Also, make sure to select ***Gold Fingers*** and ***30°finger chamfered***. It will recommend selecting an ENIG surface finish in order to get them _actually_ gold plated, but as this is more expensive and the backplane _shouldn't_ get removed and inserted into the motherboard often I just went with the standard HASL (with lead) surface finish and I haven't had any problems.
 
 ![Screenshot of the gold fingers option selected](./docs/screenshots/gold-fingers.png)
+
+[Bill of materials](./f3_backplane.csv)
