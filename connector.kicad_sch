@@ -919,7 +919,7 @@
   )
 
   (symbol (lib_id "Connector_Backplane:PCIEx4_HOST") (at 158.75 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 299fc794-05a9-4f7a-b50e-311c70f610a6)
     (property "Reference" "J1" (at 160.9441 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left))
